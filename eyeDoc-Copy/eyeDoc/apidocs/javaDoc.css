@@ -1,0 +1,87 @@
+
+/* Top Right */
+.canvas-main-2 {
+    width: 170px;
+    height: 170px;
+	position:fixed;
+	margin-left:1082px;
+	margin-top:296px;
+	box-shadow:2px 2px 5px #888888;
+}
+
+/* Bottom Right */
+.canvas-main-1 {
+    width: 170px;
+    height: 170px;
+	position:fixed;
+	margin-left:1082px;
+	margin-top:800px;
+	box-shadow:2px 2px 5px #888888;
+}
+/* Top Left */
+.canvas-main-3 {
+	background-color: #ccc1;
+    width: 50px;
+    height: 50px;
+	position:fixed;
+	margin-left:1px;
+	margin-top:1px;
+}
+/* Bottom Top Left */
+.canvas-main-4 {
+	background-color: #ccc1;
+    width: 50px;
+    height: 50px;
+	position:fixed;
+	margin-left:1px;
+	margin-top:1px;
+}
+/* Top Bottom Left */
+.canvas-main-5 {
+	background-color: #ccc1;
+    width: 120px;
+    height: 120px;
+	position:fixed;
+	margin-left:160px;
+	margin-top:300px;
+}
+/* Bottom Left */
+.canvas-main-6 {
+    width: 120px;
+    height: 120px;
+	position:fixed;
+	margin-left:160px;
+	box-shadow:2px 2px 5px #888888;
+	margin-top:596px;
+}
+
+.canvases {	
+	background-color: #ccc1;
+	box-shadow:2px 2px 5px #888888;
+
+}
+
+.canvas-back {
+    width: 170px;
+    height: 170px;
+	position:fixed;
+	margin-left:1082px;
+	margin-top:40px;
+	box-shadow:2px 2px 5px #888888;
+}
+
+.canvas-circles {
+    width: 1200px;
+    height: 700px;
+	margin-left:160px;
+}
+/*
+#info2 {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  background-color: black;
+  color: white;
+  padding: 25px 50px;
+}
+ */
