@@ -2,7 +2,7 @@
 
 
 
-
+### eyeDoc
 The eyeDoc folder contains a sample javaDoc and javascript that records the user's eye position to the "eyeData.txt" file
 
 Prerequisites:
